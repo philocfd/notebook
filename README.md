@@ -1,2 +1,2 @@
 # notebook
-share publick notes here
+share public  notes here
