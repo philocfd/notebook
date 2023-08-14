@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0453ae52692e6704",
+        "id": "1951e82a0933a0f8",
         "type": "tabs",
         "children": [
           {
-            "id": "b9200b8dd28de98e",
+            "id": "29e89869c776f307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Datasience/处理category数据.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "717f9f7686e80b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux shell 脚本.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Linux shell 脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux/Linux shell 脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux/Linux shell 脚本.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,14 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9afae8fdd45e7a87",
+  "active": "717f9f7686e80b43",
   "lastOpenFiles": [
-    "中国医药反腐.md",
-    "README.md",
-    "Datasience/seaborn.md",
-    "Datasience/处理category数据.md",
+    "Linux/Shell使用.md",
+    "Linux/Linux shell 脚本.md",
     "OpenFOAM/OpenFOAM中力的计算.md",
+    "OpenFOAM/Floater free decay simulation using overset.md",
+    "Datasience/处理category数据.md",
+    "Linux",
+    "Datasience/seaborn.md",
     "工作/2023漂浮式风电大会.md",
+    "mindset/Sam Altman的智慧.md",
+    "floater.png",
+    "mindset",
+    "figs/backgroundmesh.jpg",
+    "figs/floater_domain.jpg",
+    "figs",
+    "README.md",
+    "中国医药反腐.md",
     "OpenFOAM",
     "工作",
     "Datasience"
