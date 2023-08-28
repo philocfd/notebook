@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "defb56301bce5152",
+        "id": "b593845450da07e0",
         "type": "tabs",
         "children": [
           {
-            "id": "48cf2f38ce6aff3e",
+            "id": "a1c5b6967cacef35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasience/使用category数据.md",
+                "file": "OpenFOAM/OpenFOAM v2212安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasience/使用category数据.md",
+                "file": "OpenFOAM/OpenFOAM v2212安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datasience/使用category数据.md",
+                "file": "OpenFOAM/OpenFOAM v2212安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datasience/使用category数据.md"
+                "file": "OpenFOAM/OpenFOAM v2212安装.md"
               }
             }
           }
@@ -147,31 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48cf2f38ce6aff3e",
+  "active": "a1c5b6967cacef35",
   "lastOpenFiles": [
     "Datasience/数据可视化.md",
-    "Datasience/使用category数据.md",
-    "Datasience/seaborn.md",
-    "工作/2023漂浮式风电大会.md",
-    "Datasience/未确认 363977.crdownload",
-    "Datasience/未确认 936553.crdownload",
-    "figs/backgroundmesh.jpg",
-    "figs/catplot_count.svg",
     "figs/floater.png",
-    "OpenFOAM/Floater free decay simulation using overset.md",
-    "Linux/Linux shell 脚本.md",
-    "mindset/金钱心理学.md",
-    "figs/未确认 796588.crdownload",
-    "README.md",
+    "figs/catplot_count.svg",
     "mindset/本恰恰.md",
-    "mindset/Sam Altman的智慧.md",
-    "OpenFOAM/OpenFOAM v2212安装.md",
+    "mindset/金钱心理学.md",
+    "mindset/Untitled.md",
+    "本恰恰.md",
+    "OpenFOAM/Floater free decay simulation using overset.md",
+    "工作/2023漂浮式风电大会.md",
+    "Datasience/处理category数据.md",
+    "Datasience/seaborn.md",
+    "Linux/Linux shell 脚本.md",
     "Linux/Shell使用.md",
+    "OpenFOAM/OpenFOAM v2212安装.md",
     "OpenFOAM/OpenFOAM中力的计算.md",
     "Linux",
+    "mindset/Sam Altman的智慧.md",
+    "floater.png",
     "mindset",
+    "figs/backgroundmesh.jpg",
     "figs/floater_domain.jpg",
     "figs",
+    "README.md",
     "中国医药反腐.md",
     "OpenFOAM",
     "工作",
