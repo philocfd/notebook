@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1384443390211b18",
+        "id": "73b53efffc0885f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3d15cf9bd779e73d",
+            "id": "11141aa9651837cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Datasience/t-test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7add4a246f41ce1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mindset/特殊的识人技巧.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mindset/特殊的识人技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mindset/特殊的识人技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mindset/特殊的识人技巧.md"
+              }
             }
           },
           {
@@ -157,24 +178,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d15cf9bd779e73d",
+  "active": "7add4a246f41ce1a",
   "lastOpenFiles": [
-    "mindset/本恰恰.md",
-    "mindset/Sam Altman的智慧.md",
-    "Datasience/数据可视化.md",
+    "mindset/特殊的识人技巧.md",
+    "Datasience/Z-score及其应用.md",
+    "Datasience/t-test.md",
     "Datasience/假设检验(p-value).md",
     "Datasience/使用category数据.md",
     "Datasience/统计知识.md",
-    "Datasience/t-test.md",
-    "Datasience/Z-score及其应用.md",
-    "mindset/好文章.md",
-    "mindset/金钱心理学.md",
-    "工作/BEM thoery.md",
     "工作/2023漂浮式风电大会.md",
+    "工作/BEM thoery.md",
     "Airfoil Aerodynamics Tutorial - NACA 0012.md",
     "OpenFOAM/OpenFOAM中力的计算.md",
     "OpenFOAM/OpenFOAM v2212安装.md",
     "OpenFOAM/Floater free decay simulation using overset.md",
+    "mindset/Sam Altman的智慧.md",
+    "mindset/金钱心理学.md",
+    "mindset/好文章.md",
     "Datasience/埃隆·马斯克传.epub",
     "Datasience/【美】沃尔特·艾萨克森 - 埃隆·马斯克传-中信出版社 (2023).epub",
     "Datasience/未确认 418256.crdownload",
@@ -190,6 +210,7 @@
     "README.md",
     "Datasience/seaborn.md",
     "figs/test_tail.png",
+    "Datasience/数据可视化.md",
     "Datasience/Supervised learning.md",
     "Datasience/未确认 363977.crdownload",
     "Datasience/未确认 936553.crdownload",
@@ -197,6 +218,7 @@
     "figs/catplot_count.svg",
     "figs/floater.png",
     "figs/未确认 796588.crdownload",
+    "mindset/本恰恰.md",
     "Linux/Shell使用.md",
     "Linux",
     "figs/floater_domain.jpg",
