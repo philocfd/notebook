@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1384443390211b18",
+        "id": "1244daee6117af34",
         "type": "tabs",
         "children": [
           {
-            "id": "3d15cf9bd779e73d",
+            "id": "a3449fd081d96bea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,9 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d15cf9bd779e73d",
+  "active": "a3449fd081d96bea",
   "lastOpenFiles": [
+    "工作/2023漂浮式风电大会.md",
+    "工作/BEM thoery.md",
     "mindset/本恰恰.md",
+    "mindset/好文章.md",
+    "mindset/金钱心理学.md",
+    "mindset/特殊的识人技巧.md",
     "mindset/Sam Altman的智慧.md",
     "Datasience/数据可视化.md",
     "Datasience/假设检验(p-value).md",
@@ -167,10 +172,6 @@
     "Datasience/统计知识.md",
     "Datasience/t-test.md",
     "Datasience/Z-score及其应用.md",
-    "mindset/好文章.md",
-    "mindset/金钱心理学.md",
-    "工作/BEM thoery.md",
-    "工作/2023漂浮式风电大会.md",
     "Airfoil Aerodynamics Tutorial - NACA 0012.md",
     "OpenFOAM/OpenFOAM中力的计算.md",
     "OpenFOAM/OpenFOAM v2212安装.md",
