@@ -1,0 +1,1 @@
+https://www.cfdsupport.com/airfoil-aerodynamics-tutorial-naca-0012.html

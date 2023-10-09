@@ -1,0 +1,2 @@
+监督学习有两种类型：分类和回归
+KNN的意思是k-Nearest Neighbors
